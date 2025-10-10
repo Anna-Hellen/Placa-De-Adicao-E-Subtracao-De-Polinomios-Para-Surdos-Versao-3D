@@ -9,9 +9,9 @@ Este repositório reúne os modelos 3D desenvolvidos no Solid Edge para o materi
 
 - O material é inspirado na proposta pedagógica “Magia Matemática (2014)”, sendo aqui reinterpretado em formato 3D impresso, acessível e reprodutível.
 
-- Conteúdo do repositório Pasta / Arquivo Descrição /SolidEdge/ Arquivos editáveis (.par / .asm) criados no Solid Edge /STL/ Modelos prontos para impressão 3D (.stl) /Manual/ Manual de impressão 3D e montagem (PDF) /Imagens/ Renderizações e fotos do material impresso Como imprimir
+- Conteúdo do repositório: Arquivo .zip com as peças editaveis e as prontas para impressão não main, e os arquivos separados em suas respectivas branchs.
 
-- Os arquivos .stl podem ser abertos em softwares fatiadores como Ultimaker Cura ou PrusaSlicer. Para instruções detalhadas de impressão (cores, escala e parâmetros), consulte o documento:
+- Os arquivos .stl podem ser abertos em softwares como Ultimaker Cura ou PrusaSlicer. Para instruções detalhadas de impressão (cores, escala e parâmetros), consulte o documento:
 
 Link: Manual de Impressão 3D - Placa de Polinômios.pdf
 
