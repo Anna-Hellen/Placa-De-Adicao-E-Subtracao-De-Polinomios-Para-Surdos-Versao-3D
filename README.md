@@ -16,7 +16,7 @@ Este repositório reúne os modelos 3D desenvolvidos no Solid Edge para o materi
 Link: Manual de Impressão 3D - Placa de Polinômios.pdf
 
 
-##O material pode ser utilizado em:
+## O material pode ser utilizado em:
 
 - Aulas de Matemática do Ensino Fundamental II e Médio
 
